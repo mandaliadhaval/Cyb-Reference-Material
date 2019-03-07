@@ -1,0 +1,2 @@
+Download inception5h to get tensorflow_inception_graph.pb
+imagenet_comp_graph_label_strings.txt
