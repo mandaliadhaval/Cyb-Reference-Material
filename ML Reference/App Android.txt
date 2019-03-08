@@ -1,0 +1,31 @@
+Gradle Project:
+
+https://github.com/codepath/android_guides/wiki/Getting-Started-with-Gradle
+
+Tensorflow Android Setup:
+Install:
+http://www.msys2.org/
+Install Powershellv2+
+Install Chocolatey
+
+
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_25
+
+set BAZEL_VS=C:\Program Files\Microsoft Visual Studio 10.0
+
+C:/Users/dhavalma/AppData/Local/Continuum/Anaconda3/envs/tensorflow/python.exe
+
+C:\Program Files (x86)\Sophos\Sophos SSL VPN Client\bin;C:\Program Files (x86)\CVSNT\;%PY_HOME%;%PY_HOME%\Lib;%PY_HOME%\DLLs;%PY_HOME%\Lib\lib-tk;
+
+
+
+set BAZEL_SH=D:\Installed\MSYS2\usr\bin\bash.exe
+export c:/Users/dhavalma/AppData/Local/Continuum/Anaconda3/envs/tensorflowpy27/python.exe
+export BAZEL_VS="D:/Visual Studio 2017 Programm"
+
+
+http://androidkt.com/android-tensorflow/
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+https://medium.com/@daj/using-a-pre-trained-tensorflow-model-on-android-e747831a3d6
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/android
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android

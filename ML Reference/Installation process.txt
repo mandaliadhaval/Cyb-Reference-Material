@@ -1,0 +1,46 @@
+Install Python 3.5.2
+Close and Reopen CMD Terminal
+Set path for Python:
+System Variable - PY_HOME = C:\Users\dhavalma\AppData\Local\Programs\Python\Python35 (Python installation path)
+ PATH variable = %PY_HOME%;%PY_HOME%\Lib;%PY_HOME%\DLLs;%PY_HOME%\Lib\lib-tk;
+
+Install R programming R 3.3.3
+Install R Studio
+Import libraries (It will prompt when you will import data)
+
+
+Install Tensorflow
+python -m pip install --upgrade tensorflow
+
+Tutorial : Titanic
+Download dataset
+Import dataset into R
+
+import pip
+
+package_name='scipy'
+pip.main(['install', package_name])
+
+Conda --
+conda install numpy
+conda install pandas
+conda install scipy
+
+
+import scipy
+print('scipy: %s' % scipy.__version__)
+
+%pwd to see the current directory and %cd to change it.
+
+If you are not working on the root environment everytime you have to activate the environment.
+
+
+To use ipynb files as modules
+https://github.com/ipython/ipynb
+import ipynb.fs.defs.<filename without extn>
+https://trello.com/b/rbpEfMld/data-science
+
+To change format from Python 2 to 3:
+(tensorflow) C:\Users\dhavalma\AnacondaProjects\Word Classification\Approach3>python C:\Users\dhavalma\AppData\Local\Continuum\Anaconda3\envs\tensorflow\Tools\scripts\2to3.py -w main.py
+
+conda install -c menpo opencv
