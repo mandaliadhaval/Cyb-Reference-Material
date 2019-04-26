@@ -1,0 +1,46 @@
+AWS Athena
+Serverless interactive query tool built on top of Apache Presto
+It is not an ETL Tool
+Pay per query (Based on scanned volume of data approx $5 per TB of data scanned)
+
+Load data into S3 -> Define the schema -> Query
+Works with AWS Glue (Hive like meta store)
+ANSI SQL Compliant
+Popular formats ( \CSV, JSON, Parquet, Avro, ORC)
+
+Optimize Costs:
+Use columnar format in queries (Specify columns in select statements)
+Use Partitions
+Use data compressions
+
+Used more for exploratory use cases
+
+AWS EMR (Elastic Map Reduce)
+- Provides a managed Hadoop framework. Quickly and cost effectively process vast amounts of data. Makes
+it easy fast and cost-effectve for you to process data. Run other popular distributed frameworks like Spark.
+very cheap 10 nodes of Hadoop cluster for just 15 cents/hr.
+
+Hadoop - It was introduced for parallel execution and processesing tasks for data
+Optimize clusters based on CPU, Memory or cost
+AmazonDynamoDB - Store frequently accessed data
+AmazonGlacier - Low cost data archiving service
+http://aws.amazon.com/articles/Elastic-MapReduce
+Develop data processing application -> Upload your appliction and data to S3-> Launch yourEMR cluster ->
+(Master Instance Group + Core INstance Group(HDFS) + Task instance Group) -> Once Hadoop Cluster is running optionally put a monitor for cluster ->
+
+Amazon Aurora - Like Open source database. Its a relational database. RDS management platform. Common database operations are taken up . Scale out distributed architecture. Includes auto fail over, backup and recovery, security, isolation, scaling, patching, monitoring. It is compatible with PostgreSQL. Needs DB Server. But there is also aurora serverless scaling is automatic. 
+
+Amazon Redshift - Data warehouse by AWS.
+
+AWS Glue - ETL for database. It is serverless.Point it to your ETL jobs. It has crawlers automaticall discover datasets and put into DW. Auto generates ETL scripts.
+
+Map Reduce - Compiled language - lower level of abstraction - more lines of codes - Technically complex - higher level of development required - code performance is higer - suitable for complex business logic - structured and unstructured data - 
+
+PIG - Scripting language - Higher level of abstraction - less lines of codes - Easy - lesser level of development required - code performance is lesser than map reduce - easy for writing joins - structured and unstructured data - 
+
+Hive - SQL like query language - Higher level of abstraction - less lines of codes - Easy - lesser level of development required  - code performance is lesser than map reduce and pig - adhoc or exploratory analysis - structured data
+
+Data governance (DG) is the overall management of the availability, usability, integrity and security of data used in an enterprise. A sound data governance program includes a governing body or council, a defined set of procedures and a plan to execute those procedures
+
+Data modeling is the process of documenting a complex software system design as an easily understood diagram, using text and symbols to represent the way 
+Cybage@1234GNR
