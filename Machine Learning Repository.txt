@@ -1,0 +1,188 @@
+https://datawarrior.wordpress.com/2016/10/12/short-text-categorization-using-deep-neural-networks-and-word-embedding-models/
+
+“A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E ”
+
+“Deep learning is a particular kind of machine learning that achieves great power and flexibility by learning to represent the world as nested hierarchy of concepts, with each concept defined in relation to simpler concepts, and more abstract representations computed in terms of less abstract ones.”
+
+http://projector.tensorflow.org/
+https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+
+Cognitive on top of that
+
+Map everything in this framework
+everything map it to a digital case
+
+Digital Quotient of FB?
+
+http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
+https://archive.ics.uci.edu/ml/datasets/Diabetes	
+https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008#
+
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/learn/text_classification.py
+
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#Other_text
+
+https://www.quora.com/What-are-good-sources-to-find-labeled-dataset-for-document-topic-classification-projects
+
+https://code.google.com/archive/p/maui-indexer/downloads
+http://maui-indexer.blogspot.in/2009/10/data-sets-for-keyphrase-extraction-and.html
+
+https://github.com/tiny-dnn/tiny-dnn/wiki/Data-Format
+
+
+Dataset Library:
+http://archive.ics.uci.edu/ml/datasets.html?area=&att=&format=&numAtt=&numIns=&sort=nameUp&task=&type=text&view=table
+https://archive.ics.uci.edu/ml/index.php
+http://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
+https://nlp.stanford.edu/sentiment/treebank.html
+https://github.com/uhub/awesome-matlab
+https://www.quora.com/How-and-where-can-I-obtain-training-data-for-machine-learning
+http://qwone.com/~jason/20Newsgroups/
+http://wordlist.aspell.net/
+http://app.aspell.net/lookup?dict=en_US;words=Joe
+https://opendata.stackexchange.com/questions/6114/dataset-for-english-words-of-dictionary-for-a-nlp-project
+ - Name Dataset - http://mbejda.github.io/
+ - Name Dataset - https://www.quora.com/Where-can-I-find-a-dataset-of-first-names-categorized-by-gender
+http://www.kirix.com/blog/category/data-tagssearch/
+
+
+R DataScience Tutorials - https://github.com/ujjwalkarn/DataScienceR
+https://www.tensorflow.org/get_started/mnist/mechanics
+
+Kaggle
+https://www.kaggle.com/currie32/predicting-fraud-with-tensorflow
+https://www.kaggle.com/ntnu-testimon/banksim1
+https://www.kaggle.com/edx/course-study
+https://www.kaggle.com/manasgarg/ipl
+https://www.kaggle.com/mkachuee/BloodPressureDataset
+https://www.kaggle.com/kingburrito666/better-donald-trump-tweets
+https://www.kaggle.com/wcukierski/enron-email-dataset
+https://github.com/wavelets/kaggle-avito
+
+Image recognition:
+https://github.com/rdcolema/tensorflow-image-classification/blob/master/cnn.ipynb
+Object Recognition: https://github.com/Russell91/TensorBox
+
+
+GIT
+CNN for multi-class image recognition in tensorflow: https://github.com/rdcolema/tensorflow-image-classification
+Text Classification:
+https://github.com/yuhui-lin/text-classification
+https://github.com/keon/awesome-nlp
+https://github.com/flipkart-incubator/optimus
+https://github.com/shashankg7/Deep-Learning-for-NLP-Resources
+https://github.com/jiegzhan/multi-class-text-classification-cnn-rnn
+https://github.com/dennybritz/cnn-text-classification-tf
+http://deeplearning.lipingyang.org/tensorflow-examples-text/
+https://gist.github.com/AhmedHani/ae02c96b031b3f9a50ff22fd676e3c3e
+https://github.com/harvardnlp/sent-conv-torch
+https://richliao.github.io/supervised/classification/2016/11/26/textclassifier-convolutional/
+https://github.com/jiegzhan/multi-class-text-classification-cnn
+https://github.com/ogrisel/parallel_ml_tutorial/blob/master/notebooks/08%20-%20Large%20Scale%20Text%20Classification%20for%20Sentiment%20Analysis.ipynb
+https://github.com/dennybritz/cnn-text-classification-tf
+https://github.com/markostam/sentiment-analysis-convnet/blob/master/eval.py
+https://github.com/fchollet/keras-resources
+https://github.com/fchollet/keras/blob/master/examples/babi_rnn.py
+https://github.com/jtoy/awesome-tensorflow
+
+For OCR:
+https://github.com/kba/awesome-ocr
+
+
+CIFAR-10
+https://github.com/wolfib/image-classification-CIFAR10-tf
+https://www.cs.toronto.edu/~kriz/cifar.html
+https://github.com/rdcolema/tensorflow-image-classification
+https://github.com/pair-code/facets
+http://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
+
+
+For text analysis:
+https://github.com/wavelets/TextBlob
+https://github.com/wavelets/us-address-parser - US Address Parser
+https://github.com/zygmuntz/classifying-text - Text classification using bag of words
+http://fastml.com/a-bag-of-words-and-a-nice-little-network/
+https://medium.com/towards-data-science/how-to-do-text-classification-using-tensorflow-word-embeddings-and-cnn-edae13b3e575
+http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/
+https://medium.com/@ilblackdragon/tensorflow-text-classification-615198df9231
+https://github.com/shashankg7/Deep-Learning-for-NLP-Resources
+http://nbviewer.jupyter.org/github/MarvinBertin/Word2Vec/blob/master/word2vec.ipynb
+https://github.com/giacbrd/ShallowLearn
+https://github.com/LexicalCategoryInduction/NeuralNetworkLexicalCategoryInduction
+https://github.com/tensorflow/models/tree/master/tutorials/embedding
+https://datawarrior.wordpress.com/2016/10/12/short-text-categorization-using-deep-neural-networks-and-word-embedding-models/
+http://sivareddy.in/home
+
+Repositories
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/kjw0612/awesome-rnn
+https://github.com/kjw0612/awesome-deep-vision
+https://github.com/terryum/awesome-deep-learning-papers
+https://github.com/donnemartin/data-science-ipython-notebooks
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+https://github.com/owainlewis/awesome-artificial-intelligence
+https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+https://medium.com/towards-data-science/curated-list-machine-learning-and-nlp-resources-for-healthcare-35ef6e26ac89
+https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6
+http://karpathy.github.io/neuralnets/
+https://github.com/jivoi/awesome-ml-for-cybersecurity
+https://github.com/sjchoi86/Deep-Learning-101
+https://github.com/szwed/awesome-machine-learning-python
+https://github.com/josephmisiti/awesome-machine-learning
+**https://github.com/tensorflow/models**
+https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-nlp.md
+https://github.com/wavelets/awesome-artificial-intelligence
+**https://github.com/sjchoi86/Deep-Learning-101**
+https://github.com/onmyway133/fantastic-machine-learning
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples
+
+Stock Analysis:
+https://github.com/SanyamSatia/strtsmrt
+https://github.com/scorpionhiccup/StockPricePrediction
+https://github.com/kimber-chen/Tensorflow-for-stock-prediction
+
+
+Predict blood glucose level:
+https://www.google.co.in/search?q=github+predict+blood+glucose+levels&oq=github+predict+blood+glu&gs_l=psy-ab.3.1.33i21k1j33i160k1l2.159383.164207.0.166022.24.24.0.0.0.0.283.3768.0j16j5.21.0....0...1.1.64.psy-ab..3.20.3606...0j35i39k1j0i67k1j0i20i263k1j0i22i30k1.0.UrNynXbGqkE
+https://github.com/KalraA/JJ-Neural-Network
+https://github.com/evancloutier/452-glucose-prediction
+https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/viewFile/8737/8308
+
+Excercise:
+http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
+https://github.com/udacity/deep-learning
+https://github.com/tensorflow/magenta
+https://www.gitbrowse.com/repos/tensorflow/tensorflow
+https://github.com/mozilla/DeepSpeech
+https://github.com/adventuresinML/Machine-Learning-Tutorials
+
+Azure:
+https://github.com/Azure/Cortana-Intelligence-Gallery-Content/tree/master/Tutorials/Deep-Learning-for-Text-Classification-in-Azure
+
+Reference:
+https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
+
+Next Project:
+https://github.com/cysmith/neural-style-tf
+
+
+conda install -c menpo opencv
+MNIST CNN Visualization: http://scs.ryerson.ca/~aharley/vis/conv/
+
+Applications:
+https://experiments.withgoogle.com/ai/objectifier-spatial-programming
+https://experiments.withgoogle.com/ai/giorgio-cam/view/
+https://teachablemachine.withgoogle.com/
+http://ml4a.github.io/guides/ImageTSNELive/
+http://ml4a.github.io/guides/
+
+https://github.com/Hironsan/awesome-embedding-models/blob/master/notebooks/skip-gram_with_ng.ipynb
+https://github.com/amygdala/tensorflow-workshop/tree/master/workshop_sections/extras/cnn_text_classification
+
+https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
+https://medium.com/@zuzoovn/i-created-top-down-learning-path-machine-learning-for-software-engineers-https-github-com-743e85d7fce7
+https://github.com/jtoy/awesome-tensorflow
+
+Azure:
+https://github.com/Azure/Cortana-Intelligence-Gallery-Content/tree/master/Tutorials/Deep-Learning-for-Text-Classification-in-Azure
+https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/
